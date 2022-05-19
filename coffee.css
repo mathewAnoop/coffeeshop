@@ -1,0 +1,8 @@
+body{
+    background-image: url("./image/pexels-pixabay-261434.jpg");
+    background-size: cover;
+}
+
+.card{
+    background-color: rgba(211, 171, 161, 0.329);
+}
